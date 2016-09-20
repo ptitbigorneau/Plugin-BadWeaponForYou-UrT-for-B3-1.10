@@ -71,7 +71,7 @@ class BadweaponforyouPlugin(b3.plugin.Plugin):
         "glock":["f", "Glock 18"],
         "spas":["H", "SPAS-12"],
         "mp5":["I", "MP5K"],
-        "ump":["J" "UMP45"],               
+        "ump":["J", "UMP45"],               
         "hk":["K", "HK69"],
         "lr300":["L", "LR300ML"],               
         "g36":["M", "G36"],
